@@ -1,2 +1,2 @@
 # RishimaBugReports
-Bug reports for Rishima! just open a PR request!
+Bug reports for Rishima! just open a issue request!
